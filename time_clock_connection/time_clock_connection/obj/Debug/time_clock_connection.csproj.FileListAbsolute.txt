@@ -1,0 +1,10 @@
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\obj\Debug\time_clock_connection.csproj.AssemblyReference.cache
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\obj\Debug\time_clock_connection.Form1.resources
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\obj\Debug\time_clock_connection.Properties.Resources.resources
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\obj\Debug\time_clock_connection.csproj.GenerateResource.cache
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\obj\Debug\time_clock_connection.csproj.CoreCompileInputs.cache
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\bin\Debug\time_clock_connection.exe.config
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\bin\Debug\time_clock_connection.exe
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\bin\Debug\time_clock_connection.pdb
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\obj\Debug\time_clock_connection.exe
+C:\Users\עומרי\Desktop\פרויקטים\time_clock_connection\time_clock_connection\obj\Debug\time_clock_connection.pdb
